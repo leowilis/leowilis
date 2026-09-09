@@ -1,257 +1,291 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:111827,100:16213e&height=260&section=header&text=Leonardo%20Wilis&fontSize=64&fontColor=00fff0&animation=fadeIn&fontAlignY=52&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React%20%7C%20Next.js&descSize=18&descAlignY=72&descColor=ffffff&stroke=00fff0&strokeWidth=2"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,45:0b1120,75:111827,100:050505&height=300&section=header&text=LEONARDO%20WILIS&fontSize=58&fontColor=00fff0&animation=fadeIn&fontAlignY=45&desc=FRONTEND%20DEVELOPER&descSize=17&descAlignY=64&descColor=cbd5e1&stroke=00fff0&strokeWidth=1"
 />
 
-<br/>
+<br>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3500&pause=900&color=00FFF0&center=true&vCenter=true&width=750&height=55&lines=Building+real-world+web+applications+%F0%9F%9A%80;Strengthening+JavaScript+fundamentals+%F0%9F%A7%A0;Writing+clean+and+maintainable+code+%E2%9A%A1;Frontend+%E2%86%92+Fullstack+Developer+%F0%9F%8C%90;Consistency+over+motivation+%F0%9F%94%A5"
-    alt="Typing SVG"
-  />
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1200&color=00FFF0&center=true&vCenter=true&width=700&height=40&lines=CRAFTING+MODERN+WEB+EXPERIENCES;BUILDING+WITH+JAVASCRIPT+%26+REACT;TURNING+IDEAS+INTO+REAL+PRODUCTS;FRONTEND+TODAY.+FULLSTACK+TOMORROW."
+  alt="Typing"
+/>
 
-<br/><br/>
-
-<a href="https://github.com/leowilis">
-  <img src="https://img.shields.io/badge/GitHub-leowilis-00fff0?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
-</a>
+<br><br>
 
 <a href="https://leonardo-wilis-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-00fff0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-00FFF0?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=050505">
 </a>
 
 <a href="https://www.linkedin.com/in/leonardo-wilis-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-00fff0?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CBD5E1?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505">
 </a>
 
-<br/><br/>
+<a href="https://github.com/leowilis">
+  <img src="https://img.shields.io/badge/GITHUB-CBD5E1?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050505">
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=leowilis&style=for-the-badge&color=00fff0&labelColor=0d0d0d&label=PROFILE+VIEWS"/>
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=leowilis&style=flat-square&color=00fff0&labelColor=050505&label=PROFILE%20VIEWS"
+/>
 
 </div>
 
-<br/>
+<br>
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
-## 👨‍💻 About Me
-
-```js
-const leonardo = {
-  role: "Frontend Developer",
-  location: "Indonesia 🇮🇩",
-
-  currentlyLearning: [
-    "JavaScript Core",
-    "React",
-    "Next.js",
-    "Frontend Architecture"
-  ],
-
-  building: [
-    "Real-world applications",
-    "Reusable UI components",
-    "Scalable frontend systems"
-  ],
-
-  mindset: "Consistency over motivation",
-
-  goal: "Frontend → Fullstack Developer"
-};
-
-💡 I believe strong developers are built through consistent practice, deep fundamentals, and real-world projects.
-
-<br/>
-
-<!-- ======================= CURRENT FOCUS ======================= -->
-⚡ Current Focus
-<table> <tr> <td width="50%">
-🧠 Learning
-Deepening JavaScript fundamentals
-Improving problem-solving
-Understanding browser & runtime behavior
-Writing cleaner TypeScript
-Improving React architecture
-</td> <td width="50%">
-🚀 Building
-Production-ready frontend applications
-Reusable components
-API-driven applications
-Responsive interfaces
-Better Git & GitHub workflows
-</td> </tr> </table> <br/>
-<!-- ======================= TECH STACK ======================= -->
-🧰 Tech Stack
 <div align="center">
-🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7"/>
 
-<br/><br/>
+### 01 / PROFILE
 
-📦 State & Data
-<img src="https://skillicons.dev/icons?i=redux,nodejs&theme=dark&perline=7"/>
+</div>
 
-<br/><br/>
+<br>
 
-🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm&theme=dark&perline=6"/> </div> <br/> <div align="center">
+<table>
+<tr>
 
+<td width="55%">
 
+## Building with intention.
 
+I’m a **Frontend Developer** focused on building modern web applications with strong fundamentals, thoughtful interfaces, and maintainable architecture.
 
+My current work revolves around **JavaScript, React, Next.js, TypeScript, and modern data-fetching patterns**.
 
+I enjoy taking an idea or design and turning it into something that feels:
 
+**clean · responsive · intuitive · reliable**
 
+</td>
 
+<td width="45%">
 
+### CURRENT DIRECTION
 
+```text
+Frontend
+   ↓
+Advanced JavaScript
+   ↓
+React Architecture
+   ↓
+Next.js
+   ↓
+Backend Fundamentals
+   ↓
+Fullstack
 
+<br>
 
+Based in Indonesia 🇮🇩
 
+Open to remote opportunities
 
+</td> </tr> </table> <br>
 
-
-
-
-
-
-
-
-
-
-</div> <br/>
-<!-- ======================= WHAT I BUILD ======================= -->
-🏗️ What I Build
 <div align="center">
-💻 Frontend ⚡ Engineering 📡 Data
-Responsive UI Reusable Components REST APIs
-React Applications  Protected Routes  TanStack Query
-Next.js Applications  Authentication  Axios
-Accessible Interfaces Optimistic UI API Error Handling
-Component Architecture  Loading / Error States  Server State
-</div> <br/>
-<!-- ======================= PROJECTS ======================= -->
-🚀 Featured Projects
-🍔 Foody — Food Ordering Application
+02 / THE CRAFT
+</div> <br> <table> <tr> <td align="center" width="33%">
+INTERFACE
 
-Modern food ordering experience focused on clean UI, scalable state management and real-world application architecture.
+Responsive Design
+Component Systems
+Accessibility
+Micro Interactions
 
-Focus:
+</td> <td align="center" width="33%">
+ENGINEERING
 
-🛒 Cart & ordering flow
-🔎 Search & filtering
-📦 Order history
-⚡ Redux state management
-📡 API integration
-📱 Responsive UI
+JavaScript
+TypeScript
+React
+Next.js
 
-View Repository →
+</td> <td align="center" width="33%">
+DATA
 
-📚 Library — Book Lending Platform
+REST APIs
+TanStack Query
+Redux Toolkit
+Axios
 
-Full-featured library application with authentication, role-based access and review management.
+</td> </tr> </table> <br> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,git,github,vscode&theme=dark&perline=6"> </div> <br>
 
-Focus:
+<div align="center">
+03 / SELECTED WORK
+</div> <br> <table> <tr> <td width="50%">
+🍔 Foody
 
-🔐 Authentication
-🛡️ Role-Based Access Control
-👨‍💼 Admin Dashboard
-⭐ Review system
-⚡ Optimistic UI
-📡 TanStack Query
+Food Ordering Platform
 
-View Repository →
+A modern food ordering application focused on building a realistic ordering experience.
 
-👥 Social Media Application
+Core work
 
-Social platform focused on data synchronization, optimistic interactions and modern frontend architecture.
+Cart & checkout flow
+Search & filtering
+Order history
+Redux state management
+API integration
+Responsive UI
+<br> <a href="https://github.com/leowilis/foody-app"> View Repository → </a> </td> <td width="50%">
+📚 Library
 
-Focus:
+Book Lending Platform
 
-❤️ Like & Save
-⚡ Optimistic Updates
-🔄 TanStack Query
-🔐 Authentication
-📡 REST API
-📱 Responsive Design
+A full-featured application with authentication, role-based access and review management.
 
-View Repository →
+Core work
 
+Authentication
+RBAC / AdminGuard
+Loan management
+Review system
+Optimistic UI
+TanStack Query
+<br> <a href="https://github.com/leowilis/library-app"> View Repository → </a> </td> </tr> <tr> <td width="50%">
+👥 Sociality
+
+Social Media Platform
+
+A social application focused on modern client/server state management and optimistic interactions.
+
+Core work
+
+Authentication
+TanStack Query
+Optimistic updates
+Like & save interactions
+API integration
+Responsive interface
+<br> <a href="https://github.com/leowilis/social-media-apps"> View Repository → </a> </td> <td width="50%">
 🎬 Movie Explorer
 
-Movie discovery platform inspired by modern streaming interfaces.
+Movie Discovery Platform
 
-Focus:
+A streaming-inspired interface focused on search, discovery and polished loading states.
 
-🎥 TMDB API
-🔎 Search
-🎯 Filtering
-📄 Pagination
-✨ Hover interactions
-💀 Skeleton loading
-⚠️ Error & empty states
+Core work
 
-View Repository →
+TMDB API
+Search
+Filtering
+Pagination
+Reusable hooks
+Skeleton / error states
+<br> <a href="https://github.com/leowilis/Movie-app"> View Repository → </a> </td> </tr> </table> <br>
 
-<br/>
-<!-- ======================= GITHUB STATS ======================= -->
-📊 GitHub Statistics
 <div align="center">
+04 / ENGINEERING PRINCIPLES
+<br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leowilis&show_icons=true&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&icon_color=00fff0&text_color=ffffff&border_radius=12&hide_border=false" height="180" />
+Good interfaces are designed.
+Great interfaces are engineered.
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=tokyonight&border_color=00fff0&bg_color=0d0d0d&title_color=00fff0&text_color=ffffff&border_radius=12&hide_border=false" height="180" />
+<br>
 
-</div> <br/> <div align="center">
+Understand
+     ↓
+Design
+     ↓
+Build
+     ↓
+Break
+     ↓
+Debug
+     ↓
+Refactor
+     ↓
+Ship
 
-<img src="https://streak-stats.demolab.com?user=leowilis&theme=tokyonight&border=00fff0&background=0d0d0d&stroke=00fff0&ring=00fff0&fire=ff6b35&currStreakLabel=00fff0&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border_radius=12" width="70%" />
+</div> <br>
 
-</div> <br/>
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-🐍 Contribution Activity
 <div align="center">
+05 / GITHUB ACTIVITY
+<br>
 
-<img src="https://raw.githubusercontent.com/leowilis/leowilis/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leowilis&show_icons=true&theme=tokyonight&bg_color=050505&border_color=00fff0&title_color=00fff0&icon_color=00fff0&text_color=cbd5e1&border_radius=12" height="180" />
 
-</div> <br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=tokyonight&bg_color=050505&border_color=00fff0&title_color=00fff0&text_color=cbd5e1&border_radius=12" height="180" />
 
-<!-- ======================= GOALS ======================= -->
-🎯 2026 Roadmap
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=leowilis&theme=tokyonight&background=050505&border=00fff0&stroke=00fff0&ring=00fff0&fire=ffb86b&currStreakLabel=00fff0&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&border_radius=12" width="70%" />
+
+</div> <br>
+
 <div align="center">
-Status  Goal
-✅ Build real-world frontend applications
-🔄  Master JavaScript fundamentals
-🔄  Improve React & Next.js architecture
-🔄  Build 10+ production-quality projects
-🔄  Learn Node.js & backend fundamentals
-🎯  Become a Fullstack Developer
-🎯  Land my first professional opportunity
+06 / CONTRIBUTION
+<br>
 
-</div> <br/>
+<img src="https://raw.githubusercontent.com/leowilis/leowilis/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
-<!-- ======================= PHILOSOPHY ======================= -->
-🧠 Developer Philosophy
+</div> <br>
+
 <div align="center">
-Consistency > Motivation
-Learn → Build → Break → Debug → Understand → Repeat
-<br/>
+07 / THE ROAD AHEAD
+</div> <br> <table> <tr> <td align="center">
 
-"Discipline beats talent when talent doesn't work hard."
+01
 
-</div> <br/>
+MASTER
 
-<!-- ======================= CONNECT ======================= -->
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/leowilis"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/leonardo-wilis-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leonardo-wilis-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-00FFF0?style=for-the-badge&logo=vercel&logoColor=black"/> </a> </div> <br/> <div align="center">
-🚀 Building today. Becoming better tomorrow.
+JavaScript
+React
+Next.js
+TypeScript
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,50:111827,100:0d0d0d&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=30&fontColor=00fff0&animation=fadeIn&stroke=00fff0&strokeWidth=1" />
+</td> <td align="center">
+
+02
+
+BUILD
+
+Real-world
+Production-quality
+Applications
+
+</td> <td align="center">
+
+03
+
+EXPAND
+
+Node.js
+Backend
+Fullstack
+
+</td> <td align="center">
+
+04
+
+SHIP
+
+Professional
+Remote
+Opportunity
+
+</td> </tr> </table> <br>
+
+<div align="center">
+08 / LET'S BUILD
+<br>
+
+If you're working on something interesting,
+I'd love to connect.
+
+<br> <a href="https://www.linkedin.com/in/leonardo-wilis-dev"> <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-00FFF0?style=for-the-badge&logo=linkedin&logoColor=050505&labelColor=050505"> </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:111827,100:050505&height=140&section=footer&text=BUILD%20WITH%20INTENTION.&fontSize=25&fontColor=00fff0&animation=fadeIn&stroke=00fff0&strokeWidth=1" />
+
+<br>
+
+<sub>© 2026 Leonardo Wilis · Frontend Developer</sub>
 
 </div> ```
