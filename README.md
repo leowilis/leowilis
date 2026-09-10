@@ -189,10 +189,18 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 <div align="center">
 
-<img src="https://profilestats-zeta.vercel.app/api?username=leowilis&show_icons=true&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&icon_color=ff00ff&text_color=d8dee8&border_radius=8&hide_border=false" height="180" alt="GitHub Statistics">
-<img src="https://profilestats-zeta.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&text_color=d8dee8&border_radius=8&hide_border=false" height="180" alt="Top Languages">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://profilestats-zeta.vercel.app/api?username=leowilis&show_icons=true&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&icon_color=ff00ff&text_color=d8dee8&border_radius=8&hide_border=false" width="100%" alt="GitHub Statistics">
+</td>
+<td align="center" width="50%">
+<img src="https://profilestats-zeta.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&text_color=d8dee8&border_radius=8&hide_border=false" width="100%" alt="Top Languages">
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=leowilis&theme=dark&background=000000&border=39ff14&stroke=39ff14&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=d8dee8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&border_radius=8" width="70%" alt="GitHub Streak">
 
@@ -235,12 +243,6 @@ Markdown   5 mins                ███████████████�
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
-
-### Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=leowilis&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="Trophy Case">
 
 </div>
 
