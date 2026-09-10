@@ -32,8 +32,7 @@ _Building interfaces that are fast, accessible, and built to last._
 
 </div>
 
-<div align="center">
-Who I Am
+<h2 align="center">Who I Am</h2>
 
 ```bash
 > const developer = {
@@ -53,9 +52,7 @@ I don't just write components — I engineer experiences. Every interface I buil
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00f0ff,100:39ff14&height=3&width=100%)
 
-</div>
-
-## Current Focus
+<h2 align="center">Current Focus</h2>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=FF00FF&center=true&vCenter=true&width=760&height=35&lines=REBUILDING+JS+FUNDAMENTALS+FROM+THE+CORE;MASTERING+REACT+RENDERING+%26+ARCHITECTURE;ENGINEERING+SCALABLE+NEXT.JS+SYSTEMS;PREPARING+FOR+NODE.JS+%26+BACKEND+LOGIC" alt="Current Directive">
@@ -69,7 +66,7 @@ I'm not collecting tools — I'm rebuilding the foundation underneath them. Righ
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:ff00ff,100:00f0ff&height=3&width=100%)
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -91,7 +88,7 @@ I'm not collecting tools — I'm rebuilding the foundation underneath them. Righ
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:39ff14,100:ff00ff&height=3&width=100%)
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <br>
 
@@ -158,7 +155,7 @@ TMDB-powered discovery app with layered filtering and thoughtful loading/empty s
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:39ff14,100:00f0ff&height=3&width=100%)
 
-## Engineering Mindset
+<h2 align="center">Engineering Mindset</h2>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=740&height=40&lines=UNDERSTAND+THE+PROBLEM;DESIGN+THE+SOLUTION;BUILD+THE+SYSTEM;DEBUG+THE+FAILURE;REFACTOR+THE+CODE;SHIP+THE+PRODUCT" alt="Loop">
@@ -188,7 +185,7 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:00f0ff,100:ff00ff&height=3&width=100%)
 
-## GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
@@ -215,7 +212,7 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:ff00ff,100:39ff14&height=3&width=100%)
 
-## Extended Metrics
+<h2 align="center">Extended Metrics</h2>
 
 <div align="center">
 
@@ -243,7 +240,7 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:00f0ff,100:ff00ff&height=3&width=100%)
 
-## Roadmap
+<h2 align="center">Roadmap</h2>
 
 <div align="center">
 
@@ -263,7 +260,7 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:39ff14,100:00f0ff&height=3&width=100%)
 
-## Tools & Platforms
+<h2 align="center">Tools & Platforms</h2>
 
 <div align="center">
 
@@ -293,7 +290,7 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:ff00ff,100:00f0ff&height=3&width=100%)
 
-## Let's Connect
+<h2 align="center">Let's Connect</h2>
 
 <div align="center">
 
