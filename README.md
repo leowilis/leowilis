@@ -4,18 +4,9 @@
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:1a0033,75:0d0221,100:000000&height=280&section=header&text=LEONARDO%20WILIS&fontSize=58&fontColor=39ff14&animation=twinkling&fontAlignY=40&desc=%3C%20FRONTEND%20DEVELOPER%20/%3E&descSize=18&descAlignY=58&descColor=ff00ff&stroke=39ff14&strokeWidth=0.5"
-width="100%"
-alt="Leonardo Wilis"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:1a0033,75:0d0221,100:000000&height=280&section=header&text=LEONARDO%20WILIS&fontSize=58&fontColor=39ff14&animation=twinkling&fontAlignY=40&desc=%3C%20FRONTEND%20DEVELOPER%20/%3E&descSize=18&descAlignY=58&descColor=ff00ff&stroke=39ff14&strokeWidth=0.5" width="100%" alt="Leonardo Wilis">
 
->
-
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=800&height=40&lines=SYSTEM.BOOT()+%3D%3E+FRONTEND_ENGINEER;STACK%3A+REACT+%2B+NEXT.JS+%2B+TYPESCRIPT;STATUS%3A+COMPILING_IDEAS_INTO_CODE;MODE%3A+FRONTEND_NOW+%2F%2F+FULLSTACK_NEXT"
-alt="Typing SVG"
-
->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=800&height=40&lines=SYSTEM.BOOT()+%3D%3E+FRONTEND_ENGINEER;STACK%3A+REACT+%2B+NEXT.JS+%2B+TYPESCRIPT;STATUS%3A+COMPILING_IDEAS_INTO_CODE;MODE%3A+FRONTEND_NOW+%2F%2F+FULLSTACK_NEXT" alt="Typing SVG">
 
 <br>
 
@@ -68,10 +59,7 @@ I don't just write components — I engineer experiences. Every interface I buil
 ## `<terminal>` current_directive
 
 <div align="center">
-<img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=FF00FF&center=true&vCenter=true&width=760&height=35&lines=REBUILDING+JS+FUNDAMENTALS+FROM+THE+CORE;MASTERING+REACT+RENDERING+%26+ARCHITECTURE;ENGINEERING+SCALABLE+NEXT.JS+SYSTEMS;PREPARING+FOR+NODE.JS+%26+BACKEND+LOGIC"
-  alt="Current Directive"
->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=FF00FF&center=true&vCenter=true&width=760&height=35&lines=REBUILDING+JS+FUNDAMENTALS+FROM+THE+CORE;MASTERING+REACT+RENDERING+%26+ARCHITECTURE;ENGINEERING+SCALABLE+NEXT.JS+SYSTEMS;PREPARING+FOR+NODE.JS+%26+BACKEND+LOGIC" alt="Current Directive">
 </div>
 
 I'm not collecting tools — I'm rebuilding the foundation underneath them. Right now that means going deep into JavaScript execution, React's rendering model, server vs. client state, authentication flows, and the architectural decisions that keep a frontend maintainable as it scales.
@@ -86,13 +74,13 @@ I'm not collecting tools — I'm rebuilding the foundation underneath them. Righ
 
 <div align="center">
 
-|        `INTERFACE`        |     `ENGINEERING`     |    `DATA_LAYER`    |
-| :-----------------------: | :-------------------: | :----------------: |
-|       Responsive UI       |   JavaScript (ES6+)   |     REST APIs      |
-|   Accessibility (a11y)    |      TypeScript       |   TanStack Query   |
-|     Component Systems     |         React         |   Redux Toolkit    |
-| UI / Empty / Error States |        Next.js        |       Axios        |
-|    Micro-interactions     | Frontend Architecture | API Error Handling |
+| `INTERFACE` | `ENGINEERING` | `DATA_LAYER` |
+|:---:|:---:|:---:|
+| Responsive UI | JavaScript (ES6+) | REST APIs |
+| Accessibility (a11y) | TypeScript | TanStack Query |
+| Component Systems | React | Redux Toolkit |
+| UI / Empty / Error States | Next.js | Axios |
+| Micro-interactions | Frontend Architecture | API Error Handling |
 
 <br>
 
@@ -113,7 +101,6 @@ I'm not collecting tools — I'm rebuilding the foundation underneath them. Righ
 <td width="50%" valign="top">
 
 ### `01` FOODY
-
 **Food Ordering Web App**
 
 Full ordering flow from discovery to checkout, built around real-world product logic.
@@ -126,7 +113,6 @@ Full ordering flow from discovery to checkout, built around real-world product l
 <td width="50%" valign="top">
 
 ### `02` LIBRARY
-
 **Book Lending Platform**
 
 Auth-driven system with role-based access, lending workflows, and review ownership logic.
@@ -141,7 +127,6 @@ Auth-driven system with role-based access, lending workflows, and review ownersh
 <td width="50%" valign="top">
 
 ### `03` SOCIALITY
-
 **Social Media Web App**
 
 Server-state heavy platform with optimistic UI and rollback handling under real network conditions.
@@ -154,7 +139,6 @@ Server-state heavy platform with optimistic UI and rollback handling under real 
 <td width="50%" valign="top">
 
 ### `04` MOVIE EXPLORER
-
 **Movie Discovery Platform**
 
 TMDB-powered discovery app with layered filtering and thoughtful loading/empty states.
@@ -174,13 +158,10 @@ TMDB-powered discovery app with layered filtering and thoughtful loading/empty s
 ## `<terminal>` engineering_loop
 
 <div align="center">
-<img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=740&height=40&lines=UNDERSTAND+THE+PROBLEM;DESIGN+THE+SOLUTION;BUILD+THE+SYSTEM;DEBUG+THE+FAILURE;REFACTOR+THE+CODE;SHIP+THE+PRODUCT"
-  alt="Loop"
->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=740&height=40&lines=UNDERSTAND+THE+PROBLEM;DESIGN+THE+SOLUTION;BUILD+THE+SYSTEM;DEBUG+THE+FAILURE;REFACTOR+THE+CODE;SHIP+THE+PRODUCT" alt="Loop">
 </div>
 
-I care less about "does it work" and more about _why_ it works — how modules talk to each other, and whether the system stays sane as it grows. Every project runs through the same loop:
+I care less about "does it work" and more about *why* it works — how modules talk to each other, and whether the system stays sane as it grows. Every project runs through the same loop:
 
 ```
 understand() -> design() -> build() -> debug() -> refactor() -> ship()
@@ -191,9 +172,7 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 <div align="center">
 
 > ### `make_it_work();`
->
 > ### `make_it_clear();`
->
 > ### `make_it_better();`
 
 **Consistency > Motivation.** Small commits, repeated daily, compound into real systems.
@@ -208,24 +187,12 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 
 <div align="center">
 
-<img
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=leowilis&show_icons=true&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&icon_color=ff00ff&text_color=d8dee8&border_radius=8&hide_border=false"
-height="180"
-alt="GitHub Statistics"
-
-> <img
-> src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&text_color=d8dee8&border_radius=8&hide_border=false"
-> height="180"
-> alt="Top Languages"
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leowilis&show_icons=true&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&icon_color=ff00ff&text_color=d8dee8&border_radius=8&hide_border=false" height="180" alt="GitHub Statistics">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leowilis&layout=compact&theme=synthwave&border_color=39ff14&bg_color=000000&title_color=00f0ff&text_color=d8dee8&border_radius=8&hide_border=false" height="180" alt="Top Languages">
 
 <br><br>
 
-<img
-src="https://streak-stats.demolab.com?user=leowilis&theme=dark&background=000000&border=39ff14&stroke=39ff14&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=d8dee8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&border_radius=8"
-width="70%"
-alt="GitHub Streak"
-
->
+<img src="https://streak-stats.demolab.com?user=leowilis&theme=dark&background=000000&border=39ff14&stroke=39ff14&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=d8dee8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&border_radius=8" width="70%" alt="GitHub Streak">
 
 </div>
 
@@ -243,19 +210,47 @@ alt="GitHub Streak"
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,50:ff00ff,100:39ff14&height=3&width=100%)
 
+## `<terminal>` extended_metrics
+
+<div align="center">
+
+### `<metrics_dashboard>`
+
+<img src="https://raw.githubusercontent.com/leowilis/leowilis/main/metrics.svg" width="100%" alt="Metrics Dashboard">
+
+<br><br>
+
+### `<weekly_coding_activity>`
+
+<!--START_SECTION:waka-->
+<!-- this section is auto-filled by the WakaTime workflow — leave as is -->
+<!--END_SECTION:waka-->
+
+<br>
+
+### `<trophy_case>`
+
+<img src="https://github-profile-trophy.vercel.app/?username=leowilis&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophy Case">
+
+</div>
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:00f0ff,100:ff00ff&height=3&width=100%)
+
 ## `<terminal>` roadmap.log
 
 <div align="center">
 
-| `PHASE` | `DIRECTIVE`                          |     `STATE`      |
-| :-----: | :----------------------------------- | :--------------: |
-|  `01`   | Master JavaScript fundamentals       | 🟢 `IN_PROGRESS` |
-|  `02`   | Build stronger React architecture    | 🟢 `IN_PROGRESS` |
-|  `03`   | Deepen Next.js system design         | 🟢 `IN_PROGRESS` |
-|  `04`   | Ship production-quality applications | 🟢 `IN_PROGRESS` |
-|  `05`   | Learn Node.js & backend fundamentals |   🟡 `QUEUED`    |
-|  `06`   | Build fullstack systems end-to-end   |   🟡 `QUEUED`    |
-|  `07`   | Land a remote engineering role       |   🔴 `TARGET`    |
+| `PHASE` | `DIRECTIVE` | `STATE` |
+|:---:|:---|:---:|
+| `01` | Master JavaScript fundamentals | 🟢 `IN_PROGRESS` |
+| `02` | Build stronger React architecture | 🟢 `IN_PROGRESS` |
+| `03` | Deepen Next.js system design | 🟢 `IN_PROGRESS` |
+| `04` | Ship production-quality applications | 🟢 `IN_PROGRESS` |
+| `05` | Learn Node.js & backend fundamentals | 🟡 `QUEUED` |
+| `06` | Build fullstack systems end-to-end | 🟡 `QUEUED` |
+| `07` | Land a remote engineering role | 🔴 `TARGET` |
 
 </div>
 
@@ -314,12 +309,7 @@ Always down to talk with developers, designers, recruiters, or anyone building s
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:1a0033,75:0d0221,100:000000&height=150&section=footer&text=BUILD.%20DEBUG.%20SHIP.%20REPEAT.&fontSize=22&fontColor=39ff14&animation=twinkling&stroke=00f0ff&strokeWidth=0.5"
-width="100%"
-alt="Footer"
-
->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:1a0033,75:0d0221,100:000000&height=150&section=footer&text=BUILD.%20DEBUG.%20SHIP.%20REPEAT.&fontSize=22&fontColor=39ff14&animation=twinkling&stroke=00f0ff&strokeWidth=0.5" width="100%" alt="Footer">
 
 <div align="center">
 
