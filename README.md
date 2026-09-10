@@ -32,7 +32,8 @@ _Building interfaces that are fast, accessible, and built to last._
 
 </div>
 
-## Who I Am
+<div align="center">
+Who I Am
 
 ```bash
 > const developer = {
@@ -51,6 +52,8 @@ I don't just write components — I engineer experiences. Every interface I buil
 <br>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00f0ff,100:39ff14&height=3&width=100%)
+
+</div>
 
 ## Current Focus
 
