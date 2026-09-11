@@ -1,10 +1,10 @@
 <!-- =========================================================
-     LEONARDO WILIS
+     LEONARDO WILIS — NEON CYBER PROFILE
      ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:1a0033,75:0d0221,100:000000&height=280&section=header&text=LEONARDO%20WILIS&fontSize=58&fontColor=39ff14&animation=twinkling&fontAlignY=40&desc=%3C%20FRONTEND%20DEVELOPER%20/%3E&descSize=18&descAlignY=58&descColor=ff00ff&stroke=39ff14&strokeWidth=0.5" width="100%" alt="Leonardo Wilis">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:1a0033,75:0d0221,100:000000&height=280&section=header&text=LEONARDO%20WILIS&fontSize=58&fontColor=39ff14&animation=twinkling&fontAlignY=40&desc=FRONTEND%20DEVELOPER&descSize=18&descAlignY=58&descColor=ff00ff&stroke=39ff14&strokeWidth=0.5" width="100%" alt="Leonardo Wilis">
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=800&height=40&lines=SYSTEM.BOOT()+%3D%3E+FRONTEND+ENGINEER;STACK%3A+REACT+%2B+NEXT.JS+%2B+TYPESCRIPT;STATUS%3A+COMPILING+IDEAS+INTO+CODE;MODE%3A+FRONTEND+NOW+%2F%2F+FULLSTACK+NEXT" alt="Typing SVG">
 
