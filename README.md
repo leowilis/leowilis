@@ -225,7 +225,15 @@ understand() -> design() -> build() -> debug() -> refactor() -> ship()
 ### Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-<!-- this section is auto-filled by the WakaTime workflow — leave as is -->
+
+```txt
+From: 03 September 2026 - To: 10 September 2026
+
+Total Time: 5 mins
+
+Markdown   5 mins                ██████████████████████▓░░   91.30 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
